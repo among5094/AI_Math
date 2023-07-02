@@ -1,6 +1,6 @@
 # AI Math
-# Artificial Intelligence Mathematics 
-# 인공지능 수학
+- Artificial Intelligence Mathematics 
+- 인공지능 수학
 
 
 
